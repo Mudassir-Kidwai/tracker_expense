@@ -20,5 +20,4 @@ function App() {
      </GlobalProvider>
   );
 }
-
 export default App;
